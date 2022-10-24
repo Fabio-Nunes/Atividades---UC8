@@ -2,7 +2,7 @@
 // Listar Participantes e Palestrantes por evento.
 // Enquanto a quantidade de participantes for inferior a 100, permitir cadastro; senão, alertar que o cadastro não será permitido por ter excedido o limite.
 
-var Idade = ("18")
+let Idade = ("18")
 if (Idade < 18)
         console.log ("Idade não Permitida")
 else
